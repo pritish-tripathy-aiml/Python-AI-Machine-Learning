@@ -8,3 +8,19 @@
     - **Encoding Dependent Variables/Features Data**
   - **Splitting the Dataset into Training and Test Set**
   - **Feature Scaling**
+- **[Simple Linear Regression in Python](https://github.com/pritish-tripathy-aiml/Python-AI-Machine-Learning/blob/main/Simple_Linear_Regression.ipynb)**
+  - **Importing the Libraries**
+  - **Importing the Dataset, Get your Data [here](https://github.com/pritish-tripathy-aiml/AI-ML-Repository/blob/main/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Python/Salary_Data.csv)**
+  - **Splitting the Dataset into Training and Test Set**
+  - **Training the Simple Linear Regression Model on the Training Set**
+  - **Splitting the Dataset into Training and Test Set**
+  - **Predicting the Test Set Results**
+  - **Visualizing the Training Set Results**
+  - **Visualizing the Test Set Results**
+- **[Multiple Linear Regression in Python](https://github.com/pritish-tripathy-aiml/Python-AI-Machine-Learning/blob/main/Multiple_Linear_Regression.ipynb)**
+  - **Importing the Libraries**
+  - **Importing the Dataset, Get your Data [here](https://github.com/pritish-tripathy-aiml/AI-ML-Repository/blob/main/Part%202%20-%20Regression/Section%205%20-%20Multiple%20Linear%20Regression/Python/50_Startups.csv)**
+  - **Encode Categorical Data**
+  - **Splitting the Dataset into Training and Test Set**
+  - **Training the Multiple Linear Regression Model on the Training Set**
+  - **Predicting the Test Set Results**
